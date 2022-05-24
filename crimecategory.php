@@ -120,7 +120,8 @@
                 <div class="row">
 
                     <div class="col-md-12">
-                        <div class="card">
+                        <div class="card">file:///home/codelord/Videos/police1
+                        
                             <div class="card-header">
                                 <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#add"><i class="fa fa-plus"></i>&nbsp; Add</button>
                             </div>
